@@ -1,0 +1,77 @@
+.parant{
+background-image: url(./IMG-20220627-WA0019-01.jpeg);
+ width: 300PX; 
+ height: 380px;
+ margin-left: 300PX; 
+ /* border-radius: 20%; */
+ /* border-style: double; */
+font-style: oblique;
+}
+.btn{
+ color: white; 
+ background-color: rgb(20, 79, 155); 
+ padding: 3px; 
+ margin-left:15px ;
+ width: 255px;
+ border-radius: 155px;
+ /* margin-top:88px; */
+
+}
+.child{
+ /* padding-left: 40%; */
+ /* margin-left: 55px; */
+ display: flex;
+ flex-direction: column ;
+width: 280px;
+margin-left:8px;
+
+
+}
+.child, label{
+    padding: 6px;
+}
+.btn:hover{
+background-color: blue;
+border-radius: 15px;
+padding-left: 15px;
+}
+
+.lobi{
+    margin-left: 115px;
+    font-size: 25px;
+    color: black;
+    padding-top: 30px;
+    
+}
+
+.h22222{
+    font-size: 12px;
+    padding: 3px; 
+    margin-left:25px ;
+    margin-top:88px;
+   color: black;   
+}
+.h3333{
+    /* margin-left: 130px; */
+    /* color: red; */
+    
+}
+.h1{
+    text-align: center;
+    color: black;
+}
+.hr{
+    width: 50px;
+ position: relative;
+ bottom: 30px;
+ right: 50px;
+}
+
+.hr1{
+    position: relative;
+    bottom: 40px;
+    left: 50px;
+    width: 50px;
+}
+
+
